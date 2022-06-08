@@ -30,3 +30,15 @@
 *.exe
 *.out
 *.app
+
+# route_planning_project
+*.swp
+*.osm
+!map.osm
+*.o
+draw.cpp
+test.cpp
+build/
+bin/
+lib/
+.github/**
